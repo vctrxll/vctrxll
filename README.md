@@ -4,7 +4,7 @@
 
 <br>
 
-<p align="center">
+<p>
   👋🏼 I'm <strong>Victor Rodriguez</strong>,<br>
   💻 a <strong>Computer Systems Engineer</strong> in love with <strong>Computer Vision</strong>.<br>
   🧠 I enjoy solving Rubik's cubes,<br>
