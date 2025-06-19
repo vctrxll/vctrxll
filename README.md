@@ -12,6 +12,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=webstorm,pycharm,git,linux,raspberrypi,python,html,css,js,nodejs,mongodb,java,arduino,bash,express,mysql,npm,opencv" />
+    <img src="https://skillicons.dev/icons?i=webstorm,pycharm,git,linux,raspberrypi,python,html,css,js,nodejs,mongodb,java,arduino,bash,express,mysql,npm,opencv&perline=6" />
   </a>
 </p>
